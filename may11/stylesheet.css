@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap');
+
+
+.heading-background{
+background-color: rgb(255,0,0);
+
+}
+
+.colour{
+	color: rgb(81, 255, 0);
+
+}
+
+.background{
+
+	background-color: rgb(14, 55, 125);
+}
+
+.green{
+		background-color: rgb(71, 135, 41);
+
+}
+
+.gender-colour{
+				background-color: rgb(169, 232, 165);
+
+}
+
+.folder-background{
+					background-color: rgb(250, 195, 220);
+
+}
+
+.payment-background-colour{
+							background-color: rgb(117, 255, 225);
+
+
+}
+
+.class-colour{
+				background-color:  rgb(213, 145, 250);
+
+}
+
+.fee-colour{
+				background-color: rgb(127, 245, 81);
+
+
+}
+.poppins-font{
+				font-family: 'Poppins', sans-serif;
+
+}
+
+.thankyou{
+			background-color: rgb(217, 24, 217);
+
+
+}
+
+
+
+
