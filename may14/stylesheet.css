@@ -68,6 +68,25 @@ background-color: rgb(130, 184, 237);
 
 }
 
+input[type="text"]{
+					color: rgb(255,0,0);
+					background-color: rgb(221, 237, 166);
+
+}
+
+a[href$=".html"]{
+						color: rgb(105, 0, 0);
+						
+
+
+
+}
+.link-background{
+					background-color: rgb(163, 175, 255);
+
+
+}
+
 
 
 
