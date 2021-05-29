@@ -1,0 +1,40 @@
+.heading{
+		border-bottom: 2px solid rgb(0,0,0)
+
+
+
+}
+
+ li{
+	display: inline;
+	border-bottom: 1.5px solid rgb(0,0,0)	
+}
+
+a{
+	color: rgb(0,0,0);
+	margin: 30px;
+	text-decoration: none;
+}
+
+.nav{
+		background-color: rgb(33, 148, 144);
+
+
+		height: 70px
+	}
+
+.ul{
+	text-align: center;
+	padding: 20px
+
+
+}
+
+body{
+		margin: 60px;
+
+
+}
+
+
+
