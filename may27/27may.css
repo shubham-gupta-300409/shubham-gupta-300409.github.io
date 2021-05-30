@@ -42,13 +42,19 @@ img{
 
 }
 
+.image1{
+		width: 900px;
+		height: 500px;
+
+}
+
 .image{
 	color: rgb(84, 0, 0);
-	width: 900px;
-		height: 500px;
+
 		background: url(shubham2.jpg);
 		background-repeat: no-repeat;
-		background-size: 500px 500px;
+		background-size: 1100px 500px;
+		padding: 150px;
 		font-weight: 600
 
 }
