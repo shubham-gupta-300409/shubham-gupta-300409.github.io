@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 .heading{
 		border-bottom: 2px solid rgb(0,0,0)
 
@@ -5,7 +7,7 @@
 
 }
 
- li{
+.li{
 	display: inline;
 	border-bottom: 1.5px solid rgb(0,0,0)	
 }
@@ -31,9 +33,50 @@ a{
 }
 
 body{
-		margin: 60px;
+		margin: 40px;
 
 
+}
+img{
+	margin: 5px;
+
+}
+
+.image{
+	color: rgb(84, 0, 0);
+	width: 900px;
+		height: 500px;
+		background: url(shubham2.jpg);
+		background-repeat: no-repeat;
+		background-size: 500px 500px;
+		font-weight: 600
+
+}
+
+.contact{
+			background-color: rgb(49, 189, 184);
+
+}
+
+.adress{
+			background-color: rgb(128, 237, 109);
+
+}
+
+.text-colour{
+				color: rgb(7, 3, 94);
+
+
+}
+
+.colour{
+			color: rgb(207, 10, 10);
+
+}
+
+.font{
+
+	font-family: 'Poppins', sans-serif;
 }
 
 
