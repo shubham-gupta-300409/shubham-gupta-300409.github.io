@@ -18,7 +18,7 @@ function percantage() {
 	var y = x1/600*100;
 	var name = document.getElementById("name").value;
 	var class1 = document.getElementById("class").value;
-	 document.getElementById("demo").innerHTML="dear"+" "+name+" "+"your pearcentage in class " +" "+class1+"is "+" "+y+"%";
+	 document.getElementById("demo").innerHTML="dear"+" "+name+" "+"your pearcentage in class " +" "+class1+" "+"is "+" "+y+"%";
 
 	 if (y<=45) {
 	 	window.alert(name +" " +"you are fail in"+" " + class1+" "+".")
