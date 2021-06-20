@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<body>
+
+		<input id="text1" type="text" >
+
+
+		<input  id="text2" type="text" >
+		<button onclick="fin()"id="btn">=</button>
+		<p id="text3">answer</p>
+	<script >
+	// try{		
+
+	function fin(){
+		var hello1 = document.getElementById("text1").value;
+		var hello2 = document.getElementById("text2").value;
+		console.log(hello1, hello2);
+		var hello3 = parseInt(hello1)+parseInt(hello2);
+		document.getElementById("text3").innerHTML=hello3;
+	
+	}
+	// }
+	// catch(err){
+
+	// 	document.getElementById("text1")inner.html=err;
+
+	// }
+
+
+	</script>
+	
+</body>
+</html>
