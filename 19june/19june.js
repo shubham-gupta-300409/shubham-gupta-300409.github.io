@@ -32,7 +32,7 @@ function percantage() {
 	 document.getElementById("coloum13").innerHTML = x;
 	 document.getElementById("coloum15").innerHTML = y + "%";
 	 document.getElementById("coloum18").innerHTML = "600";
-	 document.getElementById("instruction").innerHTML = "This is not a real marksheet. This is a project. This is an imaginary marksheet. This has nothing to do with any subject , object , name , certificate in real life._________________________________________यह असली मार्कशीट नहीं है। यह एक परियोजना है। यह एक काल्पनिक मार्कशीट है। इसका वास्तविक जीवन में किसी भी विषय, वस्तु, नाम, प्रमाण पत्र से कोई लेना-देना नहीं है।"
+	 
 
 	 var name = document.getElementById("name").value;
 	var m_name = document.getElementById("name2").value;
