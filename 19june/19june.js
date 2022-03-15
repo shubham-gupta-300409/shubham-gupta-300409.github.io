@@ -5,7 +5,7 @@ function percantage() {
 	var b1 = parseInt(b)
 	var c = document.getElementById("english").value;
 	var c1 = parseInt(c)
-	var d = document.getElementById("s.s.").value;
+	var d = document.getElementById("ss").value;
 	var d1 = parseInt(d)
 	var e = document.getElementById("sanskrit").value;
 	var e1 = parseInt(e)
@@ -93,7 +93,7 @@ function information(){
 	var dob = document.getElementById("dob").value;
 	document.getElementById("coloum5").innerHTML = dob;
 
-	var number = document.getElementById("no.").value;
+	var number = document.getElementById("no").value;
 	document.getElementById("coloum4").innerHTML = number;
 
 	var school = document.getElementById("school").value;

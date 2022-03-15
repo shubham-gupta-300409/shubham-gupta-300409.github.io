@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 
 body{
 	background: url('photo.jpg');
@@ -26,7 +28,27 @@ button:hover{
 a{
 	color: red;
 	text-decoration: none;
-	border-bottom: 1.5px solid rgb(0,0,0)
+	
+}
+
+#name{background-color: rgb(219, 96, 247);}
+#name2{background-color: rgb(198, 232, 146);}
+#class{background-color: rgb(48, 219, 205);}
+#dob{background-color: rgb(149, 153, 184);}
+#no{background-color: rgb(209, 157, 178);}
+#school{background-color: rgb(132, 219, 219);}
+
+#math{background-color: rgb(170, 245, 105);}
+#science{background-color: rgb(255, 157, 82);}
+#english{background-color: rgb(222, 196, 173);}
+#ss{background-color: rgb(237, 194, 161);}
+#sanskrit{background-color: rgb(222, 196, 173);}
+#hindi{background-color: rgb(184, 207, 169);}
+
+
+.font{
+
+	font-family: 'Poppins', sans-serif;
 }
 
 
